@@ -19,9 +19,6 @@
 
 ### Protractor-Cucumber-TypeScript Setup Guide   
 
-### Medium Article
-Please do checkout my medium article which would give you more insight on this setup. [protractor-cucumber-typescript(Medium)](https://medium.com/@igniteram/e2e-testing-with-protractor-cucumber-using-typescript-564575814e4a)
-
 ### Features
 * No typings.json or typings folder, they have been replaced by better **'@types'** modules in package.json.
 * ts-node(typescript execution environment for node) in cucumberOpts. 
